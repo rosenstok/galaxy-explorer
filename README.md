@@ -12,11 +12,9 @@ What is this self-government thing? In the very short version, it’s all about 
 
 The world is entering a new era that is high in change, complexity and transformation. Some people refer to this as VUCA – volatile, uncertain, complex and ambiguous. Everything is changing fast and everyone need to redefine what life and work is about. One might say that "today is the last day everything will happen this slowly". Tomorrow's pace will be even faster.
 
-\[ IMAGE \]
-
 Moving from one position of business as usual to a new one, change, is sometimes painful but can in the end be very rewarding. Taking full ownership of the desired direction in this situation, as opposed to being frustrated but not doing anything, is the key. We need to adapt, and the sooner the better.
 
-#### The Organisation
+## The Organisation
 
 The organisation is at the heart of human society today. This is where the magic happens. Different types of organisations have different preconditions, but since they are all embedded in the larger whole – the planet and the civilisation – they will inevitably be dependent on what is happening in the larger scheme of things. If things are changing in the world, you can safely place your vet on that every sub-system, e.g. organisations, people and life in general, will change with it. Simply put, we have no other option but to adapt. So, let's do it!
 
