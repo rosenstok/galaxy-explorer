@@ -1,0 +1,6 @@
+# Advice
+
+Before deciding on the proposal, in your team or on your own, we need to invite the opinions of those who will be either meaningfully affected by the decision and/or those with relevant expertise \(i.e. wisdom and experience\). This is a crucial step that improves both the decision and the relationships in the organisation.
+
+There are different ways of doing this. Don't overly complicate the process – keep it simple and effective. Sending out an email or a message to those affected or with the expertise is usually fine if the proposal is lower on the scope and complexity scales. Headhunting is more precise but takes more effort. Inviting everyone to one or more meetings takes the most time and effort but is also where you will gather more data points and perspectives which comes in handy if the proposal is higher on the scope and complexity scales. The purpose of the advice process is not to agree! The purpose is to ask for perspectives so that whenever we make the decision, everyone who is affected or knows better are asked, so that the decision is as good as possible. Also, we avoid the Swedish konsensusträsket \(the "consensus swamp"\). The decision evolves through our collective effort in a smooth manner.
+

@@ -14,4 +14,6 @@
 * [Primary Drivers](making-decisions-and-getting-stuff-done/primary-drivers.md)
 * [Sub drivers](making-decisions-and-getting-stuff-done/sub-drivers.md)
 * [Proposal Forming](making-decisions-and-getting-stuff-done/proposal-forming.md)
+* [Advice](making-decisions-and-getting-stuff-done/advice.md)
+* [Backlog and meeting agenda](making-decisions-and-getting-stuff-done/backlog-and-meeting-agenda.md)
 
