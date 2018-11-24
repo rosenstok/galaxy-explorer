@@ -1,4 +1,4 @@
-# The Galaxy Explorers Guide to Self Governance
+# The Explorers Guide to Self Governance
 
 ## The Why
 
