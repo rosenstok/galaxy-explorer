@@ -1,4 +1,4 @@
-# The Explorers Guide to Self Governance
+# A Guide to Self Governance
 
 ## The Why
 

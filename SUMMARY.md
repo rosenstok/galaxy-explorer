@@ -1,4 +1,4 @@
 # Table of contents
 
-* [The Galaxy Explorers Guide to Self Governance](README.md)
+* [A Guide to Self Governance](README.md)
 
