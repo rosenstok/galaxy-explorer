@@ -13,4 +13,5 @@
 * [From Tension to Agreement](making-decisions-and-getting-stuff-done/from-tension-to-agreement.md)
 * [Primary Drivers](making-decisions-and-getting-stuff-done/primary-drivers.md)
 * [Sub drivers](making-decisions-and-getting-stuff-done/sub-drivers.md)
+* [Proposal Forming](making-decisions-and-getting-stuff-done/proposal-forming.md)
 
