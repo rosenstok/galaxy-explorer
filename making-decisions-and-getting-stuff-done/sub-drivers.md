@@ -10,9 +10,13 @@ When we go from situation to needs, we move from a more objective description of
 
 #### Examples of a driver: 
 
-`We have switched system to Workbook. It doesn't yet function properly, which makes us blind about the current situation. We need clear guidelines and a way to extract the right reports.`
+{% hint style="success" %}
+We have switched system to Workbook. It doesn't yet function properly, which makes us blind about the current situation. We need clear guidelines and a way to extract the right reports.
+{% endhint %}
 
+{% hint style="warning" %}
 A common trap is to define the solution as part of the driver. Don't! It may feel nice, but it limits the number of possible solutions to the tension gap. Instead, keep it open and invite more than one perspective to compete and collaborate \(both-and\) for the solution. Diversity makes us more resilient, sustainable and anti-fragile. Let go of your ego and build on the collective wisdom and intelligence instead. We're doing this together!
+{% endhint %}
 
 After writing the driver, we qualify it – moving on with the driver, putting it on hold \(or possibly even into the trash can\), or we send it to whomever \(a person or team\) that we believe has the mandate and wisdom to execute on it. We trust whoever makes the decision to have the ability to make a wise one. Whoever is responsible for acting on the driver, we go into the next step of proposal forming \(see below\).
 
