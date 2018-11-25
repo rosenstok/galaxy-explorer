@@ -6,9 +6,13 @@ Examples of a primary driver:
 
 #### Comprend 
 
-`We live in a world that changes at a breakneck pace which has become increasingly complex and uncertain. Communication is at the heart of bridging this challenge and the ability to adapt and change is what sets us apart from our competition. We help companies change their approach to communication. We know how.`
+{% hint style="success" %}
+We live in a world that changes at a breakneck pace which has become increasingly complex and uncertain. Communication is at the heart of bridging this challenge and the ability to adapt and change is what sets us apart from our competition. We help companies change their approach to communication. We know how.
+{% endhint %}
 
 #### Finance team 
 
-`Comprend operates in a changing market with lots of uncertainty and must be able to trust the numbers to be sure that we take the right decisions. Comprend Finance needs to work close to the business with the right skills, tools and processes to support the organization.`
+{% hint style="success" %}
+Comprend operates in a changing market with lots of uncertainty and must be able to trust the numbers to be sure that we take the right decisions. Comprend Finance needs to work close to the business with the right skills, tools and processes to support the organisation.
+{% endhint %}
 
