@@ -32,3 +32,5 @@ And, as one of the founders of modern society Adam Smith once said, with freedom
 
 In short, everyone is invited to be a grown up. We call this "wholeness". You are allowed to show more of who you are, behind all the roles you play. It's a more vulnerable position, but also more authentic. You become more free and are allowed to grow together with others. A healthier way of being.
 
+This guide is based on the [Sociocracy 3.0](https://sociocracy30.org/) framework.
+
