@@ -34,4 +34,5 @@
 * [Evolution](evolution/evolution.md)
 * [FAQ](evolution/faq.md)
 * [Help & Reference](evolution/help-and-reference.md)
+* [Changelog](evolution/changelog.md)
 
