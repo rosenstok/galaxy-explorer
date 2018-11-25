@@ -35,4 +35,4 @@
 * [FAQ](evolution/faq.md)
 * [Help & Reference](evolution/help-and-reference.md)
 * [Changelog](evolution/changelog.md)
-
+* [Licence](licence)
