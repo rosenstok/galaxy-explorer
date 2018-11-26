@@ -6,17 +6,27 @@ A role is an area of accountability defined by a domain and assigned to a person
 
 We differentiate between two different main types of roles: functional roles and process roles.
 
-Functional roles can be consultants, developers, creatives, leaders, and other specialists with different skillset requirements. Process roles are there to make sure that the process from tension to agreement runs smoothly. The five common ones are:
+_Functional roles_ can be consultants, developers, creatives, leaders, and other specialists with different skillset requirements. Process roles are there to make sure that the process from tension to agreement runs smoothly. The five common ones are:
 
-Operations leader Representing the higher or lower circle in the team. It’s the top-down link and the closest you get to a classic manager but without the decision-making veto \(since everyone has decision making power with the consent method\).
+### Operations leader
 
-Representative Bottom-up link and inverse information flow compared to operations leader. Makes sure that the lower circle is represented in the next higher circle.
+Representing the higher or lower circle in the team. It’s the top-down link and the closest you get to a classic manager but without the decision-making veto \(since everyone has decision making power with the consent method\).
 
-Meeting secretary Responsible for inviting colleagues to upcoming meeting, booking rooms, coordinating with facilitator and logbook keeper, and sending out agenda beforehand \(24 hours is recommended\).
+### Representative
 
-Logbook keeper Taking notes, documenting agreements and updating Planner, etc.
+Bottom-up link and inverse information flow compared to operations leader. Makes sure that the lower circle is represented in the next higher circle.
 
-Facilitator Responsible for sticking to the agenda and making sure that decisions are made. Also, inviting everyone to be heard and sometimes stopping arguments in the team. Sometimes coming with clear suggestions when there are disagreements.
+### Meeting secretary
+
+Responsible for inviting colleagues to upcoming meeting, booking rooms, coordinating with facilitator and logbook keeper, and sending out agenda beforehand \(24 hours is recommended\).
+
+### Logbook keeper 
+
+Taking notes, documenting agreements and updating Planner, etc.
+
+### Facilitator 
+
+Responsible for sticking to the agenda and making sure that decisions are made. Also, inviting everyone to be heard and sometimes stopping arguments in the team. Sometimes coming with clear suggestions when there are disagreements.
 
 \[ IMAGE \]
 
