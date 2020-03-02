@@ -22,7 +22,7 @@ Some things will be more important to consider on and focus on than others. Ther
 
 ### Gather ideas
 
-The next step is to gather possible ingredients for a proposal. This is fun! Show courage and explore many different avenues. There might be things you didn't consider initially. Question your own and your colleagues' assumptions in the process – not by argument but by expanding even further. Feels like you've hit a dry spot? Go the other way. You don't need to agree in this step either – this is just a way of expanding your minds and hearts so that you have many things to play with when ultimately designing the actual proposal. Go crazy långkalsong, helt enkelt.
+The next step is to gather possible ingredients for a proposal. This is fun! Show courage and explore many different avenues. There might be things you didn't consider initially. Question your own and your colleagues' assumptions in the process – not by argument but by expanding even further. Feels like you've hit a dry spot? Go the other way. You don't need to agree in this step either – this is just a way of expanding your minds and hearts so that you have many things to play with when ultimately designing the actual proposal. 
 
 ### Select tuners
 
